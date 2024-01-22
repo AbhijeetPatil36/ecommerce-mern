@@ -1,0 +1,6 @@
+To run both react file and server file,
+1.Locate the project directory,
+2.In terminal write yarn start.
+Database - Mongodb is used
+Frontend - Reactjs
+Backend - Node,express js
